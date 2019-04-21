@@ -11,6 +11,6 @@ def f(name,n):
 			f(var,n+2)
 
 if not ls:
-	ls = 'D:\\daima\\python'
+	ls = 'E:\\code\\python'
 
 f(ls,0)
