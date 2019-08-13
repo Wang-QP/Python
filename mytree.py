@@ -14,7 +14,3 @@ if not ls:
 	ls = 'E:\\code\\python'
 
 f(ls,0)
-
-"""
-分支
-"""
